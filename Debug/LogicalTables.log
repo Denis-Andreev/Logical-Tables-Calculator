@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\User\source\repos\LogicalTables\MyForm.h(407): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\LogicalTables\MyForm.h(522): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\LogicalTables\MyForm.h(422): warning C4715: LogicalTables::MyForm::variableIndex: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LogicalTables.vcxproj -> C:\Users\User\source\repos\LogicalTables\Debug\LogicalTables.exe
